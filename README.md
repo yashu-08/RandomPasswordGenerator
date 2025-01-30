@@ -10,3 +10,5 @@ A web-based application that generates random passwords of different lengths and
   - Special characters (!@#$%^&*(), etc.)
 - Instant Password Generation: Click a button to generate a random password instantly.
 - Responsive Design: The app is responsive and works across different screen sizes.
+
+- ---> Hosted link/Demo link :- https://yashu-08.github.io/RandomPasswordGenerator/
